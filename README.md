@@ -20,10 +20,8 @@
 </div> <br>
 
 
-<div>
-  <a href="https://github.com/sergioetrindade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioetrindade&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioetrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+## :chart_with_upwards_trend: Meus Status 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioetrindade&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioetrindade&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
 
