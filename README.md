@@ -22,6 +22,6 @@
 
 ## :chart_with_upwards_trend: Meus Status 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioetrindade&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioetrindade&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioetrindade&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
   
 
